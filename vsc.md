@@ -11,8 +11,6 @@ Emmet機能
 # demo(SCM)
 1. activity bar(左端)でSourceControlを選択する
 
-# demo(git blame,lens)
-
 # demo(intellisence)
 
 # demo(定義ジャンプ)
@@ -20,5 +18,7 @@ Emmet機能
 # demo(debug, datastore viewer)
 
 # demo(task)
+
+# demo(拡張機能, git blame/lens)
 
 # demo(vue.jsの開発)
