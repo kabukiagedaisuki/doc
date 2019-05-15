@@ -10,6 +10,9 @@ Emmet機能
 
 # demo(SCM)
 1. activity bar(左端)でSourceControlを選択する
+1. +を選択する
+1. Messageの入力項目にcommitメッセージを入れる
+1. pushする
 
 # demo(intellisence)
 
