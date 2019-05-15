@@ -1,4 +1,4 @@
-# demo1(Emmet)
+# demo(Emmet)
 1. index.htmlを新規作成し開く
 1. ! を入力する
 1. title を入力する
@@ -8,12 +8,17 @@ Emmet機能
 - HTML/CSSのコーディングを効率よく行うツール
 - [cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
-# demo2(SCM)
+# demo(SCM)
+1. activity bar(左端)でSourceControlを選択する
 
-# demo3(定義ジャンプ)
+# demo(git blame,lens)
 
-# demo4(debug, datastore viewer)
+# demo(intellisence)
 
-# demo5(task)
+# demo(定義ジャンプ)
 
-# demo6(vue.jsの開発)
+# demo(debug, datastore viewer)
+
+# demo(task)
+
+# demo(vue.jsの開発)
